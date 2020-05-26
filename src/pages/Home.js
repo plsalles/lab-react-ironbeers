@@ -10,7 +10,7 @@ function Home () {
                 <h3>All Beers</h3> 
                 <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. </p>
             </Link>
-            <Link to='/randomBeers'> 
+            <Link to='/randomBeer'> 
                 <img src='./images/random-beer.jpg' alt='random-beer'></img> 
                 <h3>Random Beer</h3> 
                 <p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.  </p>
